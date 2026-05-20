@@ -9,7 +9,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # **Screenshot**
 
-![](Screenshot DPM.png)
+![](ScreenshotDPM.png)
 
 # Installation
 
